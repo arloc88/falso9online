@@ -1,32 +1,32 @@
 
 var documents = [{
     "id": 0,
-    "url": "http://localhost:4000/404.html",
+    "url": "http://localhost:4000https://arloc88.github.io/404.html",
     "title": "404",
     "body": "404 Page does not exist!Please use the search bar at the top or visit our homepage! "
     }, {
     "id": 1,
-    "url": "http://localhost:4000/about",
+    "url": "http://localhost:4000https://arloc88.github.io/about",
     "title": "Mediumish Template for Jekyll",
     "body": "This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.  Documentation: Please, read the docs here. Questions or bug reports?: Head over to our Github repository! Buy me a coffeeThank you for your support! Your donation helps me to maintain and improve Mediumish . Buy me a coffee Documentation"
     }, {
     "id": 2,
-    "url": "http://localhost:4000/categories",
+    "url": "http://localhost:4000https://arloc88.github.io/categories",
     "title": "Categories",
     "body": ""
     }, {
     "id": 3,
-    "url": "http://localhost:4000/",
+    "url": "http://localhost:4000https://arloc88.github.io/",
     "title": "Home",
     "body": "      Ultime News:                                                                                                                                                                                                           Perchè James al Napoli non (con)Viene                                                 1 2 3 4 5                                              :               Come ogni anno al fischio triplice fischio dell’arbitro a maggio per chi vive di pane e pallone le stagioni si ribaltano ed ha inizio il. . . :                                                                                                                                                                       Alessandro Chiapparelli                                21 Aug 2019                                                                                                                      Tutti gli Articoli:             "
     }, {
     "id": 4,
-    "url": "http://localhost:4000/robots.txt",
+    "url": "http://localhost:4000https://arloc88.github.io/robots.txt",
     "title": "",
     "body": "      Sitemap: {{ &#8220;sitemap. xml&#8221;   absolute_url }}   "
     }, {
     "id": 5,
-    "url": "http://localhost:4000/customer-service/",
+    "url": "http://localhost:4000https://arloc88.github.io/customer-service/",
     "title": "Perchè James al Napoli non (con)Viene",
     "body": "2019/08/21 - Come ogni anno al fischio triplice fischio dell’arbitro a maggio per chi vive di pane e pallone le stagioni si ribaltano ed ha inizio il lungo inverno , che solo il calciomercato riesce a mitigare. Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property. How to use?: It’s actually really simple! Add the rating in your YAML front matter. It also supports halfs: 12345678910---layout: posttitle:  Inception Movie author: johncategories: [ Jekyll, tutorial ]tags: [red, yellow]image: assets/images/11. jpgdescription:  My review of Inception movie. Actors, directing and more.  rating: 4. 5---"
     }];
